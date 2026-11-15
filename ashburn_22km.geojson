@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashburn - Data Center Alley (22 km box)",
+        "center_lat": 39.0438,
+        "center_lon": -77.4874,
+        "half_width_km": 11
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-77.6146, 38.9447],
+            [-77.3602, 38.9447],
+            [-77.3602, 39.1429],
+            [-77.6146, 39.1429],
+            [-77.6146, 38.9447]
+          ]
+        ]
+      }
+    }
+  ]
+}

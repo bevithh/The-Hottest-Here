@@ -1,0 +1,12 @@
+node_modules/
+dist/
+venv/
+.DS_Store
+.env
+download.log
+*.part
+offline/
+__pycache__/
+.vscode/
+nasa_raw_tiffs/
+nasa_raw_archive/

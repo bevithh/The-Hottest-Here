@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melbourne - NEXTDC M3 West Footscray",
+        "center_lat": -37.804248,
+        "center_lon": 144.865791,
+        "half_width_km": 11
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [144.7404, -37.9033],
+            [144.9912, -37.9033],
+            [144.9912, -37.7051],
+            [144.7404, -37.7051],
+            [144.7404, -37.9033]
+          ]
+        ]
+      }
+    }
+  ]
+}

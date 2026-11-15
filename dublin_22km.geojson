@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin - Grange Castle / Clondalkin (22 km box)",
+        "center_lat": 53.3197,
+        "center_lon": -6.4247,
+        "half_width_km": 11
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-6.5901, 53.2206],
+            [-6.2593, 53.2206],
+            [-6.2593, 53.4188],
+            [-6.5901, 53.4188],
+            [-6.5901, 53.2206]
+          ]
+        ]
+      }
+    }
+  ]
+}
