@@ -1,0 +1,9 @@
+THE THERMAL DIVIDE - how to open
+
+1. Unzip ThermalDivide.zip (right-click > Extract All on Windows; double-click on Mac).
+2. Double-click index.html. It opens in your web browser (Chrome, Edge, Firefox or Safari).
+
+Everything (app, data and heat maps) is inside that one index.html file, so you can
+move or email it on its own. Needs an internet connection only for the grey background
+street map. No install, no login.
+Tip: click "Case file" (top left) for a guided tour.
