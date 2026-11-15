@@ -10,3 +10,6 @@ __pycache__/
 .vscode/
 nasa_raw_tiffs/
 nasa_raw_archive/
+
+# raw per-composite PNGs from batch_convert.py (local only)
+/presentation_pngs/

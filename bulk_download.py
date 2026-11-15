@@ -20,10 +20,10 @@ import time
 import requests
 
 DOWNLOAD_LISTS = {
-    "melbourne": "NEXTDC-M3-data-centre-Footscray-download-list.txt",  # extract centred on NEXTDC M3
+    "melbourne": "data/download_lists/NEXTDC-M3-data-centre-Footscray-download-list.txt",  # extract centred on NEXTDC M3
     # old tile-centre extract (Melbournes-western-suburbs-download-list.txt) archived in nasa_raw_archive/
-    "dublin": "dublin22km-download-list.txt",  # ~22 km extract; old small tile archived in nasa_raw_archive/
-    "ashburn": "ashburn22km-download-list.txt",  # ~22 km extract; old small tile archived in nasa_raw_archive/
+    "dublin": "data/download_lists/dublin22km-download-list.txt",  # ~22 km extract; old small tile archived in nasa_raw_archive/
+    "ashburn": "data/download_lists/ashburn22km-download-list.txt",  # ~22 km extract; old small tile archived in nasa_raw_archive/
 }
 LOGIN_URL = "https://appeears.earthdatacloud.nasa.gov/api/login"
 TIMEOUT = (15, 120)  # connect, read seconds
