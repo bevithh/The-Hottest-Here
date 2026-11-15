@@ -2,6 +2,8 @@
 
 NASA Space Apps 2026 · challenge: **Be an Earth System Trend Detective**
 
+**Live app:** https://bevithh.github.io/The-Hottest-Here/ (opens in your browser, nothing to install)
+
 Do data-centre clusters make their neighbourhood hotter? Is that changing over time, and is the change statistically
 significant? And could the waste heat warm nearby homes instead?
 
